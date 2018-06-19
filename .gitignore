@@ -1,0 +1,12 @@
+*.o
+*.a
+.*
+lib
+include
+sdsl-lite
+elfio-lib
+include/elfio
+include/gtest
+include/sdsl
+include/divsufsort64.h
+include/divsufsort.h
